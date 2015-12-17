@@ -1,0 +1,12 @@
+C:\Users\Leviathan\Documents\Visual Studio 2015\Projects\7\10\bin\Debug\10.exe.config
+C:\Users\Leviathan\Documents\Visual Studio 2015\Projects\7\10\bin\Debug\10.exe
+C:\Users\Leviathan\Documents\Visual Studio 2015\Projects\7\10\bin\Debug\10.pdb
+C:\Users\Leviathan\Documents\Visual Studio 2015\Projects\7\10\obj\Debug\10.csprojResolveAssemblyReference.cache
+C:\Users\Leviathan\Documents\Visual Studio 2015\Projects\7\10\obj\Debug\10.exe
+C:\Users\Leviathan\Documents\Visual Studio 2015\Projects\7\10\obj\Debug\10.pdb
+C:\Users\Matthew\Desktop\ch7\10\bin\Debug\10.exe.config
+C:\Users\Matthew\Desktop\ch7\10\obj\Debug\10.exe
+C:\Users\Matthew\Desktop\ch7\10\obj\Debug\10.pdb
+C:\Users\Matthew\Desktop\ch7\10\bin\Debug\10.exe
+C:\Users\Matthew\Desktop\ch7\10\bin\Debug\10.pdb
+C:\Users\Matthew\Desktop\ch7\10\obj\Debug\10.csprojResolveAssemblyReference.cache
